@@ -13,8 +13,8 @@ Using Atom and Git
   - [X] Invent and add a new unique metaphor for this action (e.g. “Looking under the hood”)
   - [X] Style your page with CSS
   - [X] Save your work and commit and push changes regularly
-- [ ] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/)
-- [ ] When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
+- [X] Confirm valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/)
+- [X] When finished, [publish and post your project](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
 - [ ] Points: `20`
   - [ ] `4` info
   - [ ] `4` follow instructions
